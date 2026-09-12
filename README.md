@@ -1,3 +1,9 @@
+## Dashboard Preview
+
+![Executive Summary](screenshots/executive-summary.png)
+
+![Vendor Drill-Down](screenshots/vendor-drilldown.png)
+
 # 📊 Vendor Risk Scoring & BI Diagnostics
 
 A validated, multi-factor vendor risk-scoring model and analytics framework built on a simulated procurement dataset consisting of 60 unique suppliers and over 3,000 corporate purchase orders.
