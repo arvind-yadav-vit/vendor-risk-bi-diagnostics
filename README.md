@@ -24,6 +24,9 @@ Procurement managers often lack data-driven clarity on vendor failure points unt
 ## 🔗 Related Framework Portfolio
 > 🚀 **Interactive Companion Application:** See my companion repository [Vendor Risk Diagnostics — Interactive Python App](../Vendor-Risk-Diagnostics-Interactive-Python-App) to inspect this exact supply chain optimization problem solved using a reactive **Python & Streamlit** full-stack software interface.
 
+## Developed by Arvind Yadav
+Connect with me for Data Analyst or related roles.
+
 ### Related Project
 
 Related project: see [vendor-risk-supply-chain-diagnostics](https://github.com/arvind-yadav-vit/vendor-risk-supply-chain-diagnostics) for the same problem solved with Python + ML.
