@@ -4,6 +4,11 @@ A validated, multi-factor vendor risk-scoring model and analytics framework buil
 simulated procurement dataset consisting of 60 unique suppliers and over 3,000
 purchase orders (₹40.99 crore total spend).
 
+## 🖥️ Dashboard Preview
+
+![Executive Summary](screenshots/executive-summary.png)
+![Vendor Drill-Down](screenshots/vendor-drilldown.png)
+
 ## 🎯 The Business Problem
 
 Procurement managers often lack data-driven clarity on vendor failure points until
